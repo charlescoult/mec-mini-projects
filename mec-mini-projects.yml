@@ -1,0 +1,11 @@
+name: mec-mini-projects
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - ipykernel
+  - pyodbc
+  - python=3.7
+  - mkl
+prefix: /home/charlescoult/.conda/envs/mec-mini-projects

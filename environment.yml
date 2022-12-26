@@ -1,5 +1,5 @@
 
-name: mec-miniprojects
+name: mec-mini-projects
 channels:
   - defaults
 dependencies:
