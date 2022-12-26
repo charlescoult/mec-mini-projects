@@ -14,3 +14,6 @@ Thumbs.db
 
 # VSCode
 .vscode/*
+
+# databases
+mec-6.4.1.data-wrangling-at-scale-with-spark/access_log_*
